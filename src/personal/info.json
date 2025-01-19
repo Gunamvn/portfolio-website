@@ -1,0 +1,208 @@
+{
+  "name": "GUNAM VARDHAN",
+  "location": "Toronto, Ontario, Canada",
+  "email": "gunamvn@gmail.com",
+  "phone": "(514) 893-9526",
+  "title": "Senior Data Engineer",
+  "summary": "I’m from the vibrant town of Ranchi in Jharkhand, India, and currently based in Toronto, where I’m exploring the exciting world of technology. With a Master’s degree in Electrical and Computer Engineering from Concordia University, I have over five years of experience working with Azure cloud solutions and MLOps. My passion for AI and machine learning has driven me to create impactful solutions that address real-world challenges. Outside of work, I enjoy sketching, dancing salsa and bachata, listening to audiobooks, traveling, and discovering new music. I’m constantly inspired by the fast-paced evolution of technology and love taking on challenges that lead to meaningful innovation. Let’s connect and create something impactful together!",
+  "skills": [
+    "Python (Advanced)",
+    "SQL",
+    "R",
+    "NLP (Transformer Models, GPT)",
+    "Predictive Analytics",
+    "Generative AI",
+    "Model Optimization",
+    "Leadership",
+    "Team Collaboration",
+    "Effective Communication",
+    "Problem-Solving"
+  ],
+  "tools": [
+    "Azure ML",
+    "Azure Cognitive Services",
+    "Azure Synapse Analytics",
+    "Azure Databricks",
+    "ADF (Azure Data Factory)",
+    "Azure Storage",
+    "Hugging Face",
+    "Azure OpenAI",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "MLOps (Docker, Azure Kubernetes, Azure DevOps)",
+    "Power BI",
+    "Advanced Excel",
+    "MySQL",
+    "Azure SQL Database",
+    "ETL Pipelines"
+  ],
+  "experience": [
+    {
+      "role": "Senior Data Engineer",
+      "company": "LTIMindtree Canada Limited",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/LTIMindtree_Logo.svg/2880px-LTIMindtree_Logo.svg.png",
+      "duration": "August 2023 - Present",
+      "skills": "Microsoft Azure, Azure ML, Azure OpenAI, Cognitive Services, Databricks, ADF, Blob Storage , Python, TensorFlow, CUDA, Kubernetes Compute, Generative AI",
+      "responsibilities": [
+        "Led the development and deployment of advanced machine learning models, including transformer-based architectures like Hugging Face and OpenAI, improving production efficiency and scalability.",
+        "Designed robust and automated MLOps pipelines for data preprocessing, model training, validation, and deployment, reducing overall time-to-production by 40%.",
+        "Engineered end-to-end Azure-based cloud solutions, integrating VNets, key vaults, and container registries to enhance security and optimize resource utilization.",
+        "Optimized data pipelines for enterprise-scale AI/ML applications, increasing data processing efficiency by 25%.",
+        "Delivered tailored AI/ML solutions such as fraud detection systems and personalized recommendation engines, achieving a 30% boost in user engagement.",
+        "Mentored junior engineers and conducted workshops for clients to leverage advanced Azure AI/ML tools effectively."
+      ]
+    },
+    {
+      "role": "Application Development Analyst",
+      "company": "Accenture, Bengaluru, Karnataka, India",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg",
+      "duration": "May 2019 - April 2021",
+      "skills": "Azure, Python, Data Factory, SQL, Microsoft Azure",
+      "responsibilities": [
+        "Developed LSTM-based demand forecasting models to optimize supply chain operations, reducing inventory holding costs by 14%.",
+        "Automated complex financial data workflows using Azure Data Factory, Tableau dashboards, and Python, improving decision-making speed and accuracy.",
+        "Migrated legacy systems to Azure Synapse Analytics, ensuring improved scalability and reliability for large-scale data processing.",
+        "Created predictive analytics models using Gradient Boosting Algorithms, improving forecast accuracy by 25%.",
+        "Collaborated with cross-functional teams to address data transformation challenges, reducing ETL processing times by 35%."
+      ]
+    },
+    {
+      "role": "Application Development Associate",
+      "company": "Accenture, Bengaluru, Karnataka, India",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg",
+      "duration": "May 2017 - April 2019",
+      "skills": "Python, SQL, Random Forest",
+      "responsibilities": [
+        "Automated workflows for financial accounting and material management using Python and SQL, reducing manual efforts by 50%.",
+        "Designed and implemented a fraud detection pipeline leveraging Random Forest classifiers, improving fraud detection accuracy by 31%.",
+        "Preprocessed and cleaned large-scale transactional data, addressing imbalanced datasets and reducing false positives by 37%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Engineering in Electrical and Computer Engineering",
+      "institution": "Concordia University, Montreal, Canada",
+      "year": "Jan 2021 - Jan 2023"
+    },
+    {
+      "degree": "Bachelor of Technology in Electronics and Electrical Engineering",
+      "institution": "Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, India",
+      "year": "May 2013 - May 2017"
+    },
+    {
+      "degree": "Cours de Français à Temps Complet",
+      "institution": "UQAM - Université du Québec à Montréal, Programme M.I.F.I.",
+      "year": "Jan 2023 – June 2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Solutions Architect Expert",
+      "date": "January 14, 2025",
+      "id": "4E95BF36361BFCC5",
+      "link": "https://learn.microsoft.com/en-us/users/gunamvardhan/credentials/4e95bf36361bfcc5?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "logo": "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg"
+    },
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate",
+      "date": "January 9, 2025",
+      "id": "4B41DA00F512A3D",
+      "link": "https://learn.microsoft.com/en-us/users/gunamvardhan/credentials/4b41da00f512a3d?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "logo": "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "December 16, 2024",
+      "id": "2EE4C1450F423669",
+      "link": "https://learn.microsoft.com/en-us/users/gunamvardhan/credentials/2ee4c1450f423669?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+      "logo": "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+    },
+    {
+      "name": "QA Certified: AZAI AzureML Advanced",
+      "date": "December 2, 2024",
+      "id": "22272871",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: Machine Learning Advanced",
+      "date": "November 13, 2024",
+      "id": "22219415",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: AZAI Training / Pipeline",
+      "date": "November 29, 2024",
+      "id": "22270986",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: Machine Learning LLM",
+      "date": "June 20, 2024",
+      "id": "22062779",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: Azure OpenAI Specialist",
+      "date": "October 19, 2024",
+      "id": "21889237",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: AZAI Gen AI",
+      "date": "November 29, 2024",
+      "id": "22270980",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: AZAI Inferencing",
+      "date": "November 29, 2024",
+      "id": "22270984",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "QA Certified: Cognitive Services Specialist",
+      "date": "February 13, 2024",
+      "id": "21964107",
+      "logo": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f76465ea-e245-4f0e-af10-c6df663d0ac9.jpeg"
+    },
+    {
+      "name": "Google Data Analytics",
+      "date": "August 09, 2023",
+      "id": "2EE4C1450F423669",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/N4QURLDPUR5Y",
+      "logo": "https://www.perficient.com/-/media/images/who-we-are/partners/google/gcp-data-management/da-without-outline.ashx?h=512&iar=0&w=512&hash=8CAB8A9A802ED5D9A6E40BFBD63A21A3"
+    }
+  ],
+  "projects": [
+    {
+      "name": "IoT-Enabled Healthcare System",
+      "year": "2022",
+      "description": "Developed an IoT device and interface for real-time health monitoring.",
+      "image": "/images/iot-healthcare-system-image.png",
+      "link": "https://github.com/Gunamvn/HMS"
+    },
+    {
+      "name": "Blood Donation Portal",
+      "year": "2021",
+      "description": "Led a team to create an online platform for blood donation coordination.",
+      "image": "/images/blood-donation-portal-image.png",
+      "link": "https://github.com/Gunamvn/coen_bloodbank_full"
+    },
+    {
+      "name": "Neural Network Optimization",
+      "description": "Implemented Levenberg-Marquardt algorithm for improved neural network efficiency.",
+      "image": "/images/neural-network-optimization-image.png",
+      "link": "https://github.com/Gunamvn/neural-network-optimization"
+    }
+  ],
+  "languages": [
+    "English: Fluent",
+    "French: Intermediate",
+    "Hindi: Native proficiency"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/gunam-vardhan/"
+  }
+}
